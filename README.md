@@ -33,9 +33,6 @@ The motivation for this project is to provide data-driven insights into trends i
 
 ## Files in the Repository
 
-- **`Stack-overflow-developper-survey/`**: Directory containing subfolders for each year’s survey data (2017–2024). Each subfolder includes:
-  - `survey_results_public.csv`: The main survey response data.
-  - `survey_results_schema.csv`: The schema describing the survey questions.
 
 - **`data_science_notebook.ipynb`**: Jupyter Notebook containing the full analysis—data loading, cleaning, analysis, and visualization—structured per the CRISP-DM process with clear documentation.
 
@@ -71,4 +68,4 @@ These findings offer actionable insights for educators, developers, and tech com
 
 ## Acknowledgements
 
-- **Data Source**: The Stack Overflow Developer Surveys, publicly available, provide a rich dataset on the global developer community.
+- **Data Source**: The [Stack Overflow Developer Surveys](https://survey.stackoverflow.co/), publicly available, provide a rich dataset on the global developer community.
