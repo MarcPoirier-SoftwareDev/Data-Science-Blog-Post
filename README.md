@@ -34,9 +34,9 @@ The motivation for this project is to provide data-driven insights into trends i
 ## Files in the Repository
 
 
-- **`data_science_notebook.ipynb`**: Jupyter Notebook containing the full analysis—data loading, cleaning, analysis, and visualization—structured per the CRISP-DM process with clear documentation.
+- **`Data_Dcience_Notebook.ipynb`**: Jupyter Notebook containing the full analysis—data loading, cleaning, analysis, and visualization—structured per the CRISP-DM process with clear documentation.
 
-- **`data_science_blog_post.pdf`**: PDF containing a blog post which uncovers fascinating trends in the world of software developpers based on Stack Overflow's annual surveys from 2017 to 2024.
+- **`Data_Science_Blog_Post.pdf`**: PDF containing a blog post which uncovers fascinating trends in the world of software developpers based on Stack Overflow's annual surveys from 2017 to 2024.
 
 - **`README.md`**: This file, offering an overview of the project, its motivation, files, results, and acknowledgements.
 
