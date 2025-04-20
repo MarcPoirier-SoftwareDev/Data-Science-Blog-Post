@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project analyzes trends in the Stack Overflow Developer Surveys from 2017 to 2024 to uncover insights into the evolving landscape of software development. The analysis focuses on four key questions related to learning methods, programming language popularity, AI adoption, and challenges with AI tools. The project follows the CRISP-DM process and is implemented in a Jupyter Notebook.
-
+This project analyzes trends in the Stack Overflow Developer Surveys from 2017 to 2024 to uncover insights into the evolving landscape of software development. The analysis focuses on four key questions related to learning methods, programming language popularity, AI adoption, and challenges with AI tools.
 ---
 
 ## Libraries Used
@@ -22,7 +21,7 @@ The following Python libraries are used in this project:
 
 ## Motivation
 
-The motivation for this project is to provide data-driven insights into trends impacting software developers, educators, and tech industry stakeholders. By examining multi-year survey data from Stack Overflow, the project aims to:
+The motivation for this project is to provide data-driven insights into trends by examining multi-year survey data from Stack Overflow, the project aims to:
 
 - Understand how developers’ learning methods have evolved, informing educational strategies.
 - Track programming language popularity to guide skill development and hiring decisions.
@@ -61,8 +60,6 @@ The analysis addresses four key questions, supported by visualizations and stati
 ### 4. What Are the Biggest Challenges with AI Tools?
 - **Insight**: Lack of trust in AI outputs and accuracy concerns are prevalent, pointing to areas for improvement in AI tools.
 - **Visualization**: Pie charts showing the percentage of respondents selecting each challenge in 2024.
-
-These findings offer actionable insights for educators, developers, and tech companies.
 
 ---
 
