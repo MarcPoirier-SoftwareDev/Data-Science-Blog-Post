@@ -64,6 +64,10 @@ The analysis addresses four key questions, supported by visualizations and stati
 
 ---
 
+## Link to blog
+
+[Developer Trends: Insights from Stack Overflow Surveys (2017-2024)](https://datasciencestackoverflowsurveys.blogspot.com/2025/05/developer-trends-insights-from-stack.html)
+
 ## Acknowledgements
 
 - **Data Source**: The [Stack Overflow Developer Surveys](https://survey.stackoverflow.co/), publicly available, provide a rich dataset on the global developer community.
